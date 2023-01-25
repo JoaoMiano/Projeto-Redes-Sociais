@@ -17,7 +17,7 @@ body{
 }
 #telefone{
     position: absolute;
-    top: 49%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 617px;
@@ -49,4 +49,12 @@ body{
 #botoes img:hover{
     border:2px solid rgba(255, 255, 255, 0.452) ;
     transform: translate(0px, -3px);
+}
+div{
+    width: 370px; 
+    position: absolute;
+    top:92vh;
+    left:50%;
+    transform: translate(-50%, -50%);
+
 }
