@@ -8,7 +8,7 @@
 html, body{
     height: 100vh;
     width: 100vw;
-    background-color: rgb(133, 70, 33);
+    background-color: #61472C;
 }
 body{
     background: url(../imagens/fundo-madeira.jpg);
