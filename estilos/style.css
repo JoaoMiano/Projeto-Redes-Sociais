@@ -17,7 +17,7 @@ body{
 }
 #telefone{
     position: absolute;
-    top: 45%;
+    top: 47vh;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 617px;
@@ -53,7 +53,7 @@ body{
 div{
     width: 370px; 
     position: absolute;
-    top:92vh;
+    top:93vh;
     left:50%;
     transform: translate(-50%, -50%);
 
