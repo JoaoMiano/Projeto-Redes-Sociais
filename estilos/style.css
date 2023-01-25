@@ -40,12 +40,12 @@ body{
     border-radius: 15px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.438);
     box-sizing: border-box;
-}
-#div-botoes{
-    position: absolute;
-    top: 667px;
-    left: 145px;
-}
+    
+}  
+#botoes{
+    text-align: right;
+}  
+
 #botoes img:hover{
     border:2px solid rgba(255, 255, 255, 0.452) ;
     transform: translate(0px, -3px);
